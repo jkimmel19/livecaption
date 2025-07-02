@@ -1,0 +1,10 @@
+
+{
+  "name": "Live Caption & Translate Overlay (Local LLM Version)",
+  "description": "An application that provides live captioning of desktop audio and translates it into a selected language using local LLM services. It acts as an overlay within the browser window. Note: This app relies on user-configured local STT and text generation LLM services.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "prompt": ""
+}
